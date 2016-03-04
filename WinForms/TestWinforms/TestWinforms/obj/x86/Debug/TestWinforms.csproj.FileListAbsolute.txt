@@ -1,0 +1,7 @@
+C:\WorkHLiu\GH\Study\TestCodes\WinForms\TestWinforms\TestWinforms\bin\Debug\TestWinforms.exe
+C:\WorkHLiu\GH\Study\TestCodes\WinForms\TestWinforms\TestWinforms\bin\Debug\TestWinforms.pdb
+C:\WorkHLiu\GH\Study\TestCodes\WinForms\TestWinforms\TestWinforms\obj\x86\Debug\TestWinforms.Form1.resources
+C:\WorkHLiu\GH\Study\TestCodes\WinForms\TestWinforms\TestWinforms\obj\x86\Debug\TestWinforms.Properties.Resources.resources
+C:\WorkHLiu\GH\Study\TestCodes\WinForms\TestWinforms\TestWinforms\obj\x86\Debug\TestWinforms.csproj.GenerateResource.Cache
+C:\WorkHLiu\GH\Study\TestCodes\WinForms\TestWinforms\TestWinforms\obj\x86\Debug\TestWinforms.exe
+C:\WorkHLiu\GH\Study\TestCodes\WinForms\TestWinforms\TestWinforms\obj\x86\Debug\TestWinforms.pdb
