@@ -232,9 +232,9 @@ $wb.Close()
 
 $xl.Quit()
 
-if($arrUnmatched.length > 0)
+if($arrUnmatched.length -gt 0)
 {
-    "成功导入" + $sucCount +　"人" + "未匹配成功的弟兄姐妹有："
+    "成功导入" + $sucCount +　"人，" + "未匹配成功的弟兄姐妹有："
     $arrUnmatched
 
 }
